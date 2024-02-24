@@ -82,7 +82,7 @@ PyQt6, numpy, pandas, pyqtgraph, functools, fpdf
     </td>
     <td align="center">
    <td align="">
-    <a href="https://github.com/ossama971" target="_black">
+    <a href="https://github.com/AyaSalahrekaby" target="_black">
     <img src="https://avatars.githubusercontent.com/u/102102255?v=4" width="150px;" alt="Aya Salah"/>
     <br />
     <sub><b>Aya Salah</b></sub></a>
