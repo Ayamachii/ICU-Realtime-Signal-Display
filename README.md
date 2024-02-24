@@ -60,23 +60,41 @@ PyQt6, numpy, pandas, pyqtgraph, functools, fpdf
 
 ## Contributors
 
-<div align="left">
-    <a href="https://github.com/Ayamachii">
-    <img src="https://avatars.githubusercontent.com/u/96113496?s=400&v=4" width="100px">
-  </a>
-  <a href="https://github.com/LunaEyad">
-    <img src="https://avatars.githubusercontent.com/u/103345380?v=4" width="100px">
-  </a>
-  <a href="https://github.com/HabibaSroor">
-    <img src="https://avatars.githubusercontent.com/u/93604097?v=4" width="100px"">
-  </a>
-  <a href="https://github.com/nouran-19">
-    <img src="https://avatars.githubusercontent.com/u/99448829?v=4" width="100px">
-  </a>
-    <a href="https://github.com/AyaSalahrekaby">
-    <img src="https://avatars.githubusercontent.com/u/102102255?v=4" width="100px">
-  </a>
-</div>
+<table>
+  <tr>
+    <td align="center">
+    <a href="https://github.com/Ayamachii" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/96113496?s=400&v=4" width="150px;" alt="Aya Eyad"/>
+    <br />
+    <sub><b>Aya Eyad</b></sub></a>
+    <td align="center">
+    <a href="https://github.com/nouran-19" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/99448829?v=4" width="150px;" alt="Nouran Khattab"/>
+    <br />
+    <sub><b>Nouran Khattab</b></sub></a>
+    </td>
+    </td>
+    <td align="center">
+    <a href="https://github.com/LunaEyad" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/103345380?v=4" width="150px;" alt="Luna Eyad"/>
+    <br />
+    <sub><b>Luna Eyad</b></sub></a>
+    </td>
+    <td align="center">
+   <td align="">
+    <a href="https://github.com/ossama971" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/102102255?v=4" width="150px;" alt="Aya Salah"/>
+    <br />
+    <sub><b>Aya Salah</b></sub></a>
+    </td>
+    <td align="center">
+    <a href="https://github.com/HabibaSroor" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/93604097?v=4" width="150px;" alt="Luna Eyad"/>
+    <br />
+    <sub><b>Habiba Salama</b></sub></a>
+    </td>
+    </tr>
+ </table>
 
 ## Acknowledgments
 This project was supervised by **Dr. Tamer Basha and Eng. Abdullah Darwish**, who provided invaluable guidance throughout its development as a part of the Digital Signal Processing course (Spring 2024) at **Cairo University Faculty of Engineering**.
